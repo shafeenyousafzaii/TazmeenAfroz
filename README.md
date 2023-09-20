@@ -64,12 +64,6 @@
 <a href="https://github-readme-stats.vercel.app/api?username=TazmeenAfroz&count_private=true&show_icons=true&theme=chartreuse-dark">
 
 
-
-
-
-
-
-
 <a href="https://github.com/TazmeenAfroz">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TazmeenAfroz&bg_color=90,1fd1f9,b621fe&title_color=fff&text_color=fff&layout=compact" style="width: 400px; height: 200px;" />
 </a>
@@ -108,11 +102,6 @@
   </div>
 </div>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="dist/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="dist/github-snake.svg" />
-  <img alt="github-snake" src="dist/github-snake.svg" />
-</picture>
 
 
 
